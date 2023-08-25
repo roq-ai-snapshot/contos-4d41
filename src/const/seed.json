@@ -1,0 +1,1332 @@
+[
+  {
+    "story": [
+      {
+        "id": "844ca14a-98f0-48ab-ac33-96393507fbad",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T19:33:36.801Z",
+        "updated_at": "2023-08-24T07:26:00.115Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "54173de7-b55f-42fd-a0c0-986377778b2d",
+        "title": "A Tale of Two Cities",
+        "content": "In a land far away...",
+        "category": "Mystery",
+        "created_at": "2023-08-25T00:33:30.114Z",
+        "updated_at": "2023-08-24T20:17:05.593Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a277493-f367-47a5-9e9f-d23cfc08955d",
+        "title": "The Mystery of the Missing Key",
+        "content": "It was a dark and stormy night...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T04:59:42.083Z",
+        "updated_at": "2023-08-24T03:46:41.782Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "057b9e0e-63c2-47ed-b0b6-be4d63dddc04",
+        "title": "The Secret Garden",
+        "content": "Deep in the enchanted forest...",
+        "category": "Romance",
+        "created_at": "2023-08-24T03:26:35.106Z",
+        "updated_at": "2023-08-24T11:08:24.234Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5efa9254-8025-49bc-8c20-927893245c3e",
+        "title": "Lost in the Woods",
+        "content": "On a sunny day in the city...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T23:42:38.581Z",
+        "updated_at": "2023-08-24T14:38:18.444Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "e70f92d2-cc15-44a3-9d80-67be316dbcc9",
+        "created_at": "2023-08-24T14:10:54.832Z",
+        "updated_at": "2023-08-24T14:32:17.171Z",
+        "story_id": "057b9e0e-63c2-47ed-b0b6-be4d63dddc04",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ea301105-28fd-4e3a-9f14-8705716cb999",
+        "created_at": "2023-08-24T03:00:43.843Z",
+        "updated_at": "2023-08-24T07:29:52.581Z",
+        "story_id": "54173de7-b55f-42fd-a0c0-986377778b2d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "70f57f2c-e10d-48d0-ada1-9d66f7addfd1",
+        "created_at": "2023-08-24T23:16:41.245Z",
+        "updated_at": "2023-08-24T12:55:02.509Z",
+        "story_id": "3a277493-f367-47a5-9e9f-d23cfc08955d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c1839edd-91f0-44f7-b26c-738d9554d89e",
+        "created_at": "2023-08-24T08:46:25.453Z",
+        "updated_at": "2023-08-25T01:23:18.440Z",
+        "story_id": "54173de7-b55f-42fd-a0c0-986377778b2d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4cb6486f-023d-4104-8c5b-0cc886ae7254",
+        "created_at": "2023-08-24T20:04:08.170Z",
+        "updated_at": "2023-08-24T12:27:29.557Z",
+        "story_id": "844ca14a-98f0-48ab-ac33-96393507fbad",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f855a15a-9de4-4b6c-85e2-d0630ec99cd2",
+        "email": "Ford32@hotmail.com",
+        "firstName": "Abdiel",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/119.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "da00f827-037e-4ecb-ae61-e703b694d600",
+        "email": "Autumn_Cummings@yahoo.com",
+        "firstName": "Coleman",
+        "lastName": "Collier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84849165",
+        "tenantId": null
+      },
+      {
+        "reference": "99eff805-df40-4b1e-8490-d09d7691fb35",
+        "email": "Monserrat86@hotmail.com",
+        "firstName": "Gudrun",
+        "lastName": "Trantow",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/590.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "505f8e31-2f78-4c6b-992c-2892ba7341a8",
+        "email": "Emily.Stamm@gmail.com",
+        "firstName": "Halie",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/333.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8253df66-173c-4e16-a58d-4874b9b8c699",
+        "email": "Clement_Macejkovic75@hotmail.com",
+        "firstName": "Willie",
+        "lastName": "McGlynn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88118027",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "0dce45d2-b684-41fb-b489-5e68e1d7d70a",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T19:26:27.079Z",
+        "updated_at": "2023-08-24T03:16:10.929Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efdbf4f2-8e1a-4aec-86af-3c20d3ebb7a8",
+        "title": "A Tale of Two Cities",
+        "content": "In a faraway land...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T07:06:54.846Z",
+        "updated_at": "2023-08-24T07:56:59.125Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3f2a227-e356-4ae0-8acc-57566eae1efd",
+        "title": "The Mystery of the Missing Key",
+        "content": "Deep in the forest...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T11:34:17.707Z",
+        "updated_at": "2023-08-24T09:00:52.701Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e0ac98d0-ee02-449f-8a82-9adb091e258f",
+        "title": "The Secret Garden",
+        "content": "On a stormy night...",
+        "category": "Romance",
+        "created_at": "2023-08-24T11:18:37.790Z",
+        "updated_at": "2023-08-24T11:30:50.288Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4700f2c9-246d-41b6-86b7-d188fc77e08e",
+        "title": "The Lost Treasure",
+        "content": "Under the starry sky...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T04:40:21.472Z",
+        "updated_at": "2023-08-24T07:38:31.817Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "b9bfbfcd-cb19-4751-8396-b00f5c622b44",
+        "created_at": "2023-08-25T01:34:56.780Z",
+        "updated_at": "2023-08-24T08:19:01.540Z",
+        "story_id": "e0ac98d0-ee02-449f-8a82-9adb091e258f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fd1421f7-507c-4346-8cf7-2faa34b6c68a",
+        "created_at": "2023-08-24T21:13:35.907Z",
+        "updated_at": "2023-08-24T20:42:15.861Z",
+        "story_id": "e0ac98d0-ee02-449f-8a82-9adb091e258f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "825b74ac-ed28-41a0-ada8-f901cd503d8e",
+        "created_at": "2023-08-24T03:33:40.129Z",
+        "updated_at": "2023-08-24T23:16:51.223Z",
+        "story_id": "efdbf4f2-8e1a-4aec-86af-3c20d3ebb7a8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e088d6e6-6548-4995-92fc-65fa4ca504b8",
+        "created_at": "2023-08-24T04:29:08.993Z",
+        "updated_at": "2023-08-24T23:41:55.918Z",
+        "story_id": "e0ac98d0-ee02-449f-8a82-9adb091e258f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95c371eb-3d56-4c5d-87d0-f6f1fd6f6152",
+        "created_at": "2023-08-25T01:10:49.429Z",
+        "updated_at": "2023-08-24T19:37:57.264Z",
+        "story_id": "d3f2a227-e356-4ae0-8acc-57566eae1efd",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "dcb18f81-4bec-4cb9-966e-806f3dcc23b6",
+        "email": "Jadon.Gutmann80@yahoo.com",
+        "firstName": "Toy",
+        "lastName": "Harber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/77.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "45a7dadb-f8f9-4228-9546-32dedc26e1f1",
+        "email": "Gwendolyn.Armstrong-Corkery13@hotmail.com",
+        "firstName": "Joshuah",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/557.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "98317e5f-74d0-423e-9f28-4b1ed1674be6",
+        "email": "Brant92@gmail.com",
+        "firstName": "Alisha",
+        "lastName": "Bechtelar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1171.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5c3631a7-ff69-4855-8815-46d133ff16a1",
+        "email": "Louie_Bins13@hotmail.com",
+        "firstName": "Filiberto",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20204498",
+        "tenantId": null
+      },
+      {
+        "reference": "741f1548-b92c-489a-9880-29859cbf0962",
+        "email": "Jayde90@hotmail.com",
+        "firstName": "Juanita",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/43.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "70d622a2-c5ba-4ccf-98e4-5257b6a0e195",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T15:00:07.331Z",
+        "updated_at": "2023-08-24T10:27:46.136Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "302f7759-1886-45d4-8b96-246d7acf7e0f",
+        "title": "A Journey to Remember",
+        "content": "In a land far away...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T06:12:10.363Z",
+        "updated_at": "2023-08-24T22:26:31.049Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "042f8f55-dd2d-4f92-89b5-90bc753ff990",
+        "title": "The Mystery Unraveled",
+        "content": "It was a dark and stormy night...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T23:48:18.313Z",
+        "updated_at": "2023-08-24T15:07:03.341Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37636318-1be0-42b2-9956-73786771d1e3",
+        "title": "Lost in Time",
+        "content": "The sun was shining brightly...",
+        "category": "Romance",
+        "created_at": "2023-08-24T05:06:18.945Z",
+        "updated_at": "2023-08-25T00:27:41.827Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "26c07950-9833-4169-8362-d479d15b54f8",
+        "title": "The Secret Garden",
+        "content": "The wind whispered through the trees...",
+        "category": "Thriller",
+        "created_at": "2023-08-24T22:48:59.196Z",
+        "updated_at": "2023-08-24T15:28:33.297Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "7eb1bdf6-0813-4cd2-9455-e0420210ae1f",
+        "created_at": "2023-08-24T13:06:26.984Z",
+        "updated_at": "2023-08-25T00:19:02.907Z",
+        "story_id": "042f8f55-dd2d-4f92-89b5-90bc753ff990",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4674e69b-493f-4f66-ada3-52b0919e0497",
+        "created_at": "2023-08-24T18:31:50.187Z",
+        "updated_at": "2023-08-24T17:36:23.440Z",
+        "story_id": "70d622a2-c5ba-4ccf-98e4-5257b6a0e195",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d4df99e-2cb4-477d-a6cc-8fa5fd3b4d8d",
+        "created_at": "2023-08-24T15:37:40.463Z",
+        "updated_at": "2023-08-24T18:16:44.621Z",
+        "story_id": "26c07950-9833-4169-8362-d479d15b54f8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4f9cf346-8ee0-4245-951f-28171f395bf2",
+        "created_at": "2023-08-24T22:40:41.447Z",
+        "updated_at": "2023-08-24T05:28:22.622Z",
+        "story_id": "26c07950-9833-4169-8362-d479d15b54f8",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "98f8c055-81ee-405c-9df2-a1d94b104d61",
+        "created_at": "2023-08-24T18:21:26.519Z",
+        "updated_at": "2023-08-24T16:30:00.507Z",
+        "story_id": "70d622a2-c5ba-4ccf-98e4-5257b6a0e195",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cf7153dc-6cb9-492d-8a45-53f7c882635f",
+        "email": "Vilma_Feeney@hotmail.com",
+        "firstName": "Bertha",
+        "lastName": "Padberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79012098",
+        "tenantId": null
+      },
+      {
+        "reference": "4c5157fa-3a34-4c7a-baac-e92195158f76",
+        "email": "Genesis_Block@hotmail.com",
+        "firstName": "Precious",
+        "lastName": "Bogisich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47860304",
+        "tenantId": null
+      },
+      {
+        "reference": "92d93520-a8a8-4149-8a4e-cc4d65d35dc0",
+        "email": "Albertha_Douglas@yahoo.com",
+        "firstName": "Gabe",
+        "lastName": "Altenwerth",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23686516",
+        "tenantId": null
+      },
+      {
+        "reference": "3d359518-0000-420a-bb07-dd42d4252ac4",
+        "email": "Delpha7@gmail.com",
+        "firstName": "Deja",
+        "lastName": "Abshire",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/522.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d89e205e-a6d2-41e4-82c5-376424e2cc81",
+        "email": "Daren70@hotmail.com",
+        "firstName": "Jayson",
+        "lastName": "Lesch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81273264",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "2f901e8b-1e69-4586-ad8d-effeef215387",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T06:55:15.958Z",
+        "updated_at": "2023-08-24T04:44:37.943Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1149fed7-8edf-444f-b9c5-c7c563d6beb1",
+        "title": "A Tale of Two Cities",
+        "content": "In a land far away...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T18:31:15.711Z",
+        "updated_at": "2023-08-25T00:15:24.266Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7d632775-7034-4fda-b5c8-4b976a5f00cf",
+        "title": "The Secret Garden",
+        "content": "It was a dark and stormy night...",
+        "category": "Romance",
+        "created_at": "2023-08-24T16:28:13.700Z",
+        "updated_at": "2023-08-24T16:09:25.635Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "914e237a-d5fc-4867-be70-7c7e8f21e3db",
+        "title": "The Great Gatsby",
+        "content": "There was a young boy named Jack...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-25T00:18:49.112Z",
+        "updated_at": "2023-08-24T21:06:22.175Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0be5cc46-6764-4116-b4b1-da47649eadc2",
+        "title": "Pride and Prejudice",
+        "content": "Once there was a princess named Lily...",
+        "category": "Historical Fiction",
+        "created_at": "2023-08-24T04:39:36.026Z",
+        "updated_at": "2023-08-24T15:13:03.768Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "3d971007-8cf0-4a8a-adc5-ebef19736416",
+        "created_at": "2023-08-24T21:26:20.320Z",
+        "updated_at": "2023-08-24T09:13:10.939Z",
+        "story_id": "1149fed7-8edf-444f-b9c5-c7c563d6beb1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ae5819a-4e16-4f82-b15e-81c6d9e0e146",
+        "created_at": "2023-08-24T21:38:24.789Z",
+        "updated_at": "2023-08-24T09:47:54.665Z",
+        "story_id": "0be5cc46-6764-4116-b4b1-da47649eadc2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fa14c59f-e315-4387-afcf-fe5779a5163b",
+        "created_at": "2023-08-24T05:35:22.689Z",
+        "updated_at": "2023-08-24T15:33:20.760Z",
+        "story_id": "0be5cc46-6764-4116-b4b1-da47649eadc2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6d1344b6-7593-4edd-a679-320073905855",
+        "created_at": "2023-08-24T17:56:31.093Z",
+        "updated_at": "2023-08-24T22:59:28.688Z",
+        "story_id": "2f901e8b-1e69-4586-ad8d-effeef215387",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15b74a8c-19ad-490f-9ba6-15f9b7bea4d2",
+        "created_at": "2023-08-24T04:41:34.058Z",
+        "updated_at": "2023-08-24T12:16:47.212Z",
+        "story_id": "1149fed7-8edf-444f-b9c5-c7c563d6beb1",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9984ee1a-5cdf-46ce-8533-1b088312541e",
+        "email": "Hanna87@hotmail.com",
+        "firstName": "Adolf",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82894280",
+        "tenantId": null
+      },
+      {
+        "reference": "09d7297a-3f25-4d9d-ac21-79d67e9e1091",
+        "email": "Brooklyn95@hotmail.com",
+        "firstName": "Chaim",
+        "lastName": "Hackett",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/13.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8977bd36-a3a4-4634-9a17-fd42c65453d6",
+        "email": "Carey.Murray@hotmail.com",
+        "firstName": "Isaias",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/793.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9041f5bd-5587-4ad5-9550-0dc710165095",
+        "email": "Ryann28@yahoo.com",
+        "firstName": "Mitchell",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19327728",
+        "tenantId": null
+      },
+      {
+        "reference": "da361593-ecd0-4d82-b0dd-b145159acab8",
+        "email": "Brown_OReilly@hotmail.com",
+        "firstName": "Arnaldo",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/214.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "3da0394f-6bba-4910-ad71-7c6dcdcb792d",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T09:01:25.735Z",
+        "updated_at": "2023-08-24T13:44:42.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d599aca7-9be5-440f-a948-40b4fea55f20",
+        "title": "A Twist of Fate",
+        "content": "In a small village...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T09:11:55.239Z",
+        "updated_at": "2023-08-24T12:34:31.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "10569973-79e3-4922-a4d4-55fa5e8a738c",
+        "title": "Lost in Time",
+        "content": "Deep in the forest...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T17:12:20.009Z",
+        "updated_at": "2023-08-24T09:57:15.345Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d3642279-8819-4970-8bfb-b83c95bf682c",
+        "title": "The Secret Garden",
+        "content": "On a stormy night...",
+        "category": "Romance",
+        "created_at": "2023-08-24T21:47:44.933Z",
+        "updated_at": "2023-08-24T05:07:20.332Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20781773-a92a-4c4f-9084-ab819c9e0d58",
+        "title": "Echoes of the Past",
+        "content": "In a distant land...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T23:48:35.400Z",
+        "updated_at": "2023-08-24T10:44:29.247Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "bdbe19cb-52ee-46b0-98ed-49d92d9ad19a",
+        "created_at": "2023-08-24T02:49:51.616Z",
+        "updated_at": "2023-08-24T21:14:45.537Z",
+        "story_id": "10569973-79e3-4922-a4d4-55fa5e8a738c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29bed004-a309-4086-80d9-744235ca3840",
+        "created_at": "2023-08-25T01:26:14.150Z",
+        "updated_at": "2023-08-24T21:11:15.088Z",
+        "story_id": "20781773-a92a-4c4f-9084-ab819c9e0d58",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2e3a11db-3642-407b-9ee9-dcb5ef2de465",
+        "created_at": "2023-08-24T20:06:32.487Z",
+        "updated_at": "2023-08-24T11:34:44.535Z",
+        "story_id": "20781773-a92a-4c4f-9084-ab819c9e0d58",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "94f3dfb9-bd16-4be1-8c68-b8fea00f3d7d",
+        "created_at": "2023-08-25T01:43:33.789Z",
+        "updated_at": "2023-08-24T05:13:35.376Z",
+        "story_id": "10569973-79e3-4922-a4d4-55fa5e8a738c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cf2c4d17-a4a0-4590-afa2-76f77ab2882f",
+        "created_at": "2023-08-24T09:47:27.484Z",
+        "updated_at": "2023-08-24T21:17:51.259Z",
+        "story_id": "10569973-79e3-4922-a4d4-55fa5e8a738c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "06fdac49-6080-48ca-b2b9-23003296f0e3",
+        "email": "Jess59@hotmail.com",
+        "firstName": "Emanuel",
+        "lastName": "Stracke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21352097",
+        "tenantId": null
+      },
+      {
+        "reference": "bec25329-d079-4a00-b5f2-9226fe8f0fb0",
+        "email": "Ashlynn96@yahoo.com",
+        "firstName": "Myriam",
+        "lastName": "Hintz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1188.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b43946c-5da3-45d8-994a-4b90c09db8b0",
+        "email": "Guiseppe34@hotmail.com",
+        "firstName": "Everett",
+        "lastName": "Lowe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/47829476",
+        "tenantId": null
+      },
+      {
+        "reference": "383c4b16-621f-43bf-89a5-e27ff2dbe2d5",
+        "email": "Jenifer25@hotmail.com",
+        "firstName": "Stacey",
+        "lastName": "Kulas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/664.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "73eafe06-53f0-4910-b2ea-5b1b22e4504b",
+        "email": "Jonathon.Runolfsson55@yahoo.com",
+        "firstName": "Elda",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/683.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "31172ea0-1147-4520-85d2-afc4a4ff48de",
+        "title": "Adventure Awaits",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T17:00:27.386Z",
+        "updated_at": "2023-08-24T02:45:23.458Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb26768b-3cae-480a-a3c1-821f1b265840",
+        "title": "The Mystery House",
+        "content": "In a land far away...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T21:05:30.332Z",
+        "updated_at": "2023-08-24T14:20:34.663Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba7a0030-9a65-4c07-88ca-06e8268184e4",
+        "title": "Lost in Time",
+        "content": "It was a dark and stormy night...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T06:15:09.837Z",
+        "updated_at": "2023-08-24T02:49:44.319Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dade5430-bae9-4884-b0bf-b913a201486c",
+        "title": "The Secret Garden",
+        "content": "The sun was shining brightly...",
+        "category": "Romance",
+        "created_at": "2023-08-25T01:30:16.027Z",
+        "updated_at": "2023-08-24T13:49:00.861Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e432e593-3e1e-40ac-bc32-d219dee4e159",
+        "title": "Beyond the Horizon",
+        "content": "Deep in the enchanted forest...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T17:29:34.592Z",
+        "updated_at": "2023-08-24T18:03:18.822Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "bdea9eca-733c-4f90-85dd-e348076f42d7",
+        "created_at": "2023-08-24T10:22:25.011Z",
+        "updated_at": "2023-08-24T10:36:59.110Z",
+        "story_id": "31172ea0-1147-4520-85d2-afc4a4ff48de",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aafd069d-2307-4407-8ed1-7c558595ce84",
+        "created_at": "2023-08-24T21:37:51.093Z",
+        "updated_at": "2023-08-24T08:18:28.879Z",
+        "story_id": "dade5430-bae9-4884-b0bf-b913a201486c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a6076190-0c7c-47f2-9b49-73a15eda8f83",
+        "created_at": "2023-08-24T02:03:04.143Z",
+        "updated_at": "2023-08-24T05:31:52.560Z",
+        "story_id": "eb26768b-3cae-480a-a3c1-821f1b265840",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "67171f56-152b-4f05-b228-b21f33fbc825",
+        "created_at": "2023-08-24T12:39:31.323Z",
+        "updated_at": "2023-08-24T20:21:06.249Z",
+        "story_id": "e432e593-3e1e-40ac-bc32-d219dee4e159",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "12ef283d-73f3-4bae-b543-fbc15619944e",
+        "created_at": "2023-08-24T13:12:44.973Z",
+        "updated_at": "2023-08-24T05:24:56.276Z",
+        "story_id": "e432e593-3e1e-40ac-bc32-d219dee4e159",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fa67cd23-c9ab-4ce9-905a-a6b2cc3d39b8",
+        "email": "Lenore_Orn@gmail.com",
+        "firstName": "Burdette",
+        "lastName": "Gerlach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98434224",
+        "tenantId": null
+      },
+      {
+        "reference": "8f79f7d8-c126-4c7a-beae-1d80e0886090",
+        "email": "Carmela_Stiedemann89@gmail.com",
+        "firstName": "Karelle",
+        "lastName": "Sauer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/375.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6846465b-1a07-44ef-8745-46c9e06b0bb0",
+        "email": "Jerry_Kub37@yahoo.com",
+        "firstName": "Stephen",
+        "lastName": "Farrell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1013.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09d31a04-7453-4948-819a-7f88abe29405",
+        "email": "Harley.Stark31@yahoo.com",
+        "firstName": "Adrian",
+        "lastName": "Bernier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1178.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "82bf12a9-dda5-410c-bec8-625d397eec7d",
+        "email": "Johann.Morar57@hotmail.com",
+        "firstName": "Alexa",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/344.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "e056e512-42fd-46c0-a2c7-ab41c1c724aa",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T15:53:13.136Z",
+        "updated_at": "2023-08-25T00:10:46.866Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a5939d35-9d65-44f4-9ca9-581a96c1418c",
+        "title": "A Tale of Love and Loss",
+        "content": "In a small village...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T09:33:48.514Z",
+        "updated_at": "2023-08-24T19:05:46.617Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "24baf54b-a226-408d-b99f-c81a0ab39d40",
+        "title": "The Mystery of the Missing Key",
+        "content": "Deep in the forest...",
+        "category": "Romance",
+        "created_at": "2023-08-24T05:46:40.643Z",
+        "updated_at": "2023-08-24T15:12:48.312Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07ae60a9-94ea-4bcc-abb5-5fba46161180",
+        "title": "The Secret Garden",
+        "content": "On a stormy night...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T14:47:47.760Z",
+        "updated_at": "2023-08-24T06:40:22.465Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6cbcb026-29a7-443b-b40e-4fdd5d83a25b",
+        "title": "The Haunted House",
+        "content": "In a faraway land...",
+        "category": "Horror",
+        "created_at": "2023-08-24T02:00:07.697Z",
+        "updated_at": "2023-08-24T17:33:14.434Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "aa242829-8aa6-4091-8aee-56bae6aab2d7",
+        "created_at": "2023-08-24T12:06:56.407Z",
+        "updated_at": "2023-08-24T04:28:35.010Z",
+        "story_id": "24baf54b-a226-408d-b99f-c81a0ab39d40",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "878d8171-b579-498b-83c4-c3169d8e847e",
+        "created_at": "2023-08-24T02:36:13.931Z",
+        "updated_at": "2023-08-24T01:49:34.450Z",
+        "story_id": "a5939d35-9d65-44f4-9ca9-581a96c1418c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e15bd1f-0273-4a03-a032-ac6264abd939",
+        "created_at": "2023-08-24T16:04:42.906Z",
+        "updated_at": "2023-08-24T14:54:43.946Z",
+        "story_id": "e056e512-42fd-46c0-a2c7-ab41c1c724aa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a486b62f-1ac7-409e-8268-36bcdbbbab8f",
+        "created_at": "2023-08-24T20:30:40.102Z",
+        "updated_at": "2023-08-24T05:31:41.648Z",
+        "story_id": "24baf54b-a226-408d-b99f-c81a0ab39d40",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "756e16e4-13cd-4166-b2a4-bed94f1ea85c",
+        "created_at": "2023-08-24T10:11:13.904Z",
+        "updated_at": "2023-08-24T23:59:06.340Z",
+        "story_id": "e056e512-42fd-46c0-a2c7-ab41c1c724aa",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b8e58b31-b753-4dff-9718-2a54c2da7f83",
+        "email": "Brandyn68@gmail.com",
+        "firstName": "Percival",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49214949",
+        "tenantId": null
+      },
+      {
+        "reference": "b7e6943e-78f3-406c-939f-a7ac46154a5d",
+        "email": "Reese_Stokes@gmail.com",
+        "firstName": "Brice",
+        "lastName": "Abshire",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1042.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2b2498cd-7b03-41a9-8388-c641de0d8703",
+        "email": "Harry_Hahn@gmail.com",
+        "firstName": "Margot",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51339857",
+        "tenantId": null
+      },
+      {
+        "reference": "eec4d56b-9fd9-429e-a008-350d178b6fe9",
+        "email": "Mason_West@gmail.com",
+        "firstName": "Casey",
+        "lastName": "Parisian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99191769",
+        "tenantId": null
+      },
+      {
+        "reference": "79dc1b70-307e-40d4-9f97-faab18fa641c",
+        "email": "Mikayla.Hickle38@yahoo.com",
+        "firstName": "Kennedy",
+        "lastName": "Bogan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/88.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "08f14c7a-5351-45fb-b4b9-071641fc0f87",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T08:10:47.665Z",
+        "updated_at": "2023-08-24T02:07:03.510Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b3a82233-3a15-47ab-9dee-0518f849e6bb",
+        "title": "A Twist of Fate",
+        "content": "In a small village...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T10:31:02.357Z",
+        "updated_at": "2023-08-24T08:05:08.648Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "712a4f9e-5c1c-4177-b407-4f7b9f3594fa",
+        "title": "Lost in Time",
+        "content": "It was a dark and stormy night...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T17:19:39.523Z",
+        "updated_at": "2023-08-24T23:45:42.964Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a4456397-23b3-43ec-8e04-609330a4fd1c",
+        "title": "Echoes of the Past",
+        "content": "Deep in the forest...",
+        "category": "Thriller",
+        "created_at": "2023-08-24T21:17:00.351Z",
+        "updated_at": "2023-08-24T12:43:36.458Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "900a8c7a-ea52-4f94-a7dc-3e134a503ddf",
+        "title": "The Hidden Truth",
+        "content": "Legend has it...",
+        "category": "Romance",
+        "created_at": "2023-08-24T17:58:48.654Z",
+        "updated_at": "2023-08-24T20:39:12.196Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "75a04525-e89f-4bc3-a7ea-89d2641ea2d2",
+        "created_at": "2023-08-24T21:00:28.338Z",
+        "updated_at": "2023-08-24T19:07:13.476Z",
+        "story_id": "712a4f9e-5c1c-4177-b407-4f7b9f3594fa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3bd8deef-8dc9-4a43-ae0d-b8cfa8d05737",
+        "created_at": "2023-08-24T02:39:29.243Z",
+        "updated_at": "2023-08-24T14:04:19.443Z",
+        "story_id": "08f14c7a-5351-45fb-b4b9-071641fc0f87",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "95323fb9-cf6b-431a-a79f-611130b21bab",
+        "created_at": "2023-08-24T02:11:53.823Z",
+        "updated_at": "2023-08-24T04:37:34.394Z",
+        "story_id": "a4456397-23b3-43ec-8e04-609330a4fd1c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80bb007d-79cc-41d3-9cb0-1e6d98f04238",
+        "created_at": "2023-08-24T18:25:40.730Z",
+        "updated_at": "2023-08-24T06:23:58.629Z",
+        "story_id": "08f14c7a-5351-45fb-b4b9-071641fc0f87",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6276b083-b3d3-48e8-83f1-bfb5b8244664",
+        "created_at": "2023-08-24T22:43:08.549Z",
+        "updated_at": "2023-08-24T17:48:59.271Z",
+        "story_id": "900a8c7a-ea52-4f94-a7dc-3e134a503ddf",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fbca2ab5-4b17-4e3d-9e56-6fdf960b4ff2",
+        "email": "Tyreek_Auer37@gmail.com",
+        "firstName": "Jedediah",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/462.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b77970f0-35ca-4733-b42b-c46680f7b6a4",
+        "email": "Duane.Frami@gmail.com",
+        "firstName": "Bernie",
+        "lastName": "Stoltenberg",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51194198",
+        "tenantId": null
+      },
+      {
+        "reference": "565d65c4-0271-40a5-a028-ad3570406523",
+        "email": "Dasia_Konopelski72@yahoo.com",
+        "firstName": "Bryce",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58061394",
+        "tenantId": null
+      },
+      {
+        "reference": "035a4c07-e9ea-47df-bc3f-1d1e711a3e8a",
+        "email": "Christina.Lowe95@yahoo.com",
+        "firstName": "Aaron",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57146021",
+        "tenantId": null
+      },
+      {
+        "reference": "844c326d-606d-4b89-8749-7a4fd87637b6",
+        "email": "Heidi.Bechtelar-DuBuque@yahoo.com",
+        "firstName": "Madge",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88820393",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "33840376-6fbe-4875-8c1e-3bece0480060",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T06:46:43.827Z",
+        "updated_at": "2023-08-24T19:58:24.442Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7c356f25-6e4b-4e60-acc4-146291d98139",
+        "title": "A Tale of Two Cities",
+        "content": "In a land far away...",
+        "category": "Mystery",
+        "created_at": "2023-08-24T11:46:39.547Z",
+        "updated_at": "2023-08-24T18:20:11.779Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "daa11bf1-b9d9-4bd9-8637-135490586b22",
+        "title": "The Mystery of the Missing Key",
+        "content": "It was a dark and stormy night...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T17:58:59.383Z",
+        "updated_at": "2023-08-24T22:01:50.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "eb04162e-efb4-4715-9cb4-e5dd3741611a",
+        "title": "The Secret Garden",
+        "content": "Deep in the forest...",
+        "category": "Romance",
+        "created_at": "2023-08-25T00:07:34.448Z",
+        "updated_at": "2023-08-24T15:01:42.004Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "826d01a8-f3e1-4397-862c-185a169b6e3f",
+        "title": "The Haunted House",
+        "content": "On a sunny day...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T15:06:29.699Z",
+        "updated_at": "2023-08-24T03:00:41.154Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "2f65c1f2-eeb1-49ec-93c7-34ba3c6e518b",
+        "created_at": "2023-08-24T09:25:23.613Z",
+        "updated_at": "2023-08-24T05:18:09.965Z",
+        "story_id": "daa11bf1-b9d9-4bd9-8637-135490586b22",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9eaac4cf-9ca2-4c95-a5a7-ef831b12efb0",
+        "created_at": "2023-08-24T12:06:34.466Z",
+        "updated_at": "2023-08-24T09:46:54.460Z",
+        "story_id": "826d01a8-f3e1-4397-862c-185a169b6e3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bf76b11d-2866-4321-a033-8f172011ac4b",
+        "created_at": "2023-08-24T19:34:04.815Z",
+        "updated_at": "2023-08-24T07:43:17.944Z",
+        "story_id": "33840376-6fbe-4875-8c1e-3bece0480060",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d4b7ce00-c3c1-47ac-bffe-599521d129d0",
+        "created_at": "2023-08-24T13:48:21.891Z",
+        "updated_at": "2023-08-24T11:43:54.551Z",
+        "story_id": "826d01a8-f3e1-4397-862c-185a169b6e3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bc9a3a89-0084-4f4c-8c4b-3afd8538973c",
+        "created_at": "2023-08-24T11:20:55.819Z",
+        "updated_at": "2023-08-24T21:48:06.103Z",
+        "story_id": "daa11bf1-b9d9-4bd9-8637-135490586b22",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "02b52820-84a1-49af-a8ae-17d70ac6e2f2",
+        "email": "Sydnie95@hotmail.com",
+        "firstName": "Delmer",
+        "lastName": "Cassin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10547295",
+        "tenantId": null
+      },
+      {
+        "reference": "4b309332-55ce-4e76-b350-73df1f8a8bcf",
+        "email": "Efrain25@yahoo.com",
+        "firstName": "Camylle",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1184.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "89df2cd9-d442-4cd7-927d-f38ad7aaeb02",
+        "email": "Kristin78@yahoo.com",
+        "firstName": "Oleta",
+        "lastName": "Monahan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1230.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a4f15fcf-b2b2-4344-957c-052586b33205",
+        "email": "Nico32@gmail.com",
+        "firstName": "Trycia",
+        "lastName": "Will",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66435553",
+        "tenantId": null
+      },
+      {
+        "reference": "1739212f-3f64-47ff-8f99-de151b8ab0c4",
+        "email": "Mariana.Wolf3@yahoo.com",
+        "firstName": "Annabel",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1029.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "story": [
+      {
+        "id": "02ab2d55-9092-4dd5-b41e-a098cffe7754",
+        "title": "The Adventure Begins",
+        "content": "Once upon a time...",
+        "category": "Fantasy",
+        "created_at": "2023-08-24T05:39:51.574Z",
+        "updated_at": "2023-08-24T20:40:25.971Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "00105050-13a9-41bb-8233-7c8e32d5dcb7",
+        "title": "A Journey to Remember",
+        "content": "In a faraway land...",
+        "category": "Mystery",
+        "created_at": "2023-08-25T00:25:12.292Z",
+        "updated_at": "2023-08-24T17:52:08.768Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e85b4687-168f-4d04-8288-3cdf3a9bd10c",
+        "title": "Lost in Time",
+        "content": "It was a dark and stormy night...",
+        "category": "Science Fiction",
+        "created_at": "2023-08-24T10:50:12.705Z",
+        "updated_at": "2023-08-24T12:15:40.782Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1b282f1b-1eb3-4482-a5d8-8dd5963799fa",
+        "title": "The Hidden Treasure",
+        "content": "Deep in the forest...",
+        "category": "Adventure",
+        "created_at": "2023-08-24T11:05:53.557Z",
+        "updated_at": "2023-08-24T17:10:28.795Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c767b4a6-a652-4f85-967c-902399e5545c",
+        "title": "Into the Unknown",
+        "content": "Under the starry sky...",
+        "category": "Romance",
+        "created_at": "2023-08-24T02:22:44.942Z",
+        "updated_at": "2023-08-24T17:50:42.872Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "favorite": [
+      {
+        "id": "cf513c8e-e152-49f1-99de-50e024ebfc7e",
+        "created_at": "2023-08-24T12:58:34.202Z",
+        "updated_at": "2023-08-24T09:18:32.238Z",
+        "story_id": "e85b4687-168f-4d04-8288-3cdf3a9bd10c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a2eddb86-87bf-47b3-9e9e-f5753b701c07",
+        "created_at": "2023-08-24T09:34:40.324Z",
+        "updated_at": "2023-08-24T10:23:10.331Z",
+        "story_id": "00105050-13a9-41bb-8233-7c8e32d5dcb7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0462effb-3df4-4c38-bf08-305dcc729adc",
+        "created_at": "2023-08-24T11:55:05.003Z",
+        "updated_at": "2023-08-24T14:05:35.499Z",
+        "story_id": "e85b4687-168f-4d04-8288-3cdf3a9bd10c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "15575e28-ec9e-407b-82a3-70e3f331675c",
+        "created_at": "2023-08-24T22:37:44.135Z",
+        "updated_at": "2023-08-25T01:12:10.644Z",
+        "story_id": "1b282f1b-1eb3-4482-a5d8-8dd5963799fa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "069d01b8-ce49-4b84-a935-d6a59de25620",
+        "created_at": "2023-08-24T13:55:57.026Z",
+        "updated_at": "2023-08-24T14:32:22.061Z",
+        "story_id": "c767b4a6-a652-4f85-967c-902399e5545c",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "66a26d05-249f-498f-879b-ca5d78e33b1e",
+        "email": "Herminia_Hauck@hotmail.com",
+        "firstName": "Lavonne",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18042662",
+        "tenantId": null
+      },
+      {
+        "reference": "91eb58e2-1158-4f4d-9b43-8693bc541f34",
+        "email": "Alene_Baumbach@yahoo.com",
+        "firstName": "Devon",
+        "lastName": "Cole-Cassin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31382241",
+        "tenantId": null
+      },
+      {
+        "reference": "c699a786-b95a-4ce9-bbf3-6d48a5df6503",
+        "email": "Oswald1@gmail.com",
+        "firstName": "Chelsea",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/187.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a1d1ee83-76bf-47dc-968c-b946f80dc79f",
+        "email": "Sim.Hartmann@hotmail.com",
+        "firstName": "Ford",
+        "lastName": "Thiel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/695.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "fdb30d7d-6606-4764-92b5-2edbbb338dba",
+        "email": "Clemmie_Kshlerin33@hotmail.com",
+        "firstName": "Ona",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/758.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
